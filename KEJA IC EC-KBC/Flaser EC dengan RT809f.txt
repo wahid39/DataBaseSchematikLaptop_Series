@@ -1,0 +1,14 @@
+#alat flaser RT09f
+
+1. ks14     = pin 1
+2. ks17     = pin 2
+3. Kso3 GND = pin 4
+4. +3v Ec   = pin 5
+5. Ks15     = pin 7
+6. Ks16     = Pin 8
+
+Catatan#
+Posisi di atas adalah posisi pada alat flaser 
+kemudian untuk penjumperan pada mainboard. menyesuaikan pada skematik masing-masing dari kode mesin.
+
+Ic EC merek Ene

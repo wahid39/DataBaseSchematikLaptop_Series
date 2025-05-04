@@ -1,0 +1,16 @@
+1. + 3VA_EC pin 26,50,92,114,127 (3.3V) 
+2. EC_RST pin 14 (3.3V) 
+3. AC_IN_OC # pin 120 (3.3V) 
+4. EC_XIN pin 126 berosilasi (penggunaan osiloskop) 
+5. EC_XOUT pin 2 
+6. Swich di PWR_SW pin 53 (3.3V-0V-3.3 V) 
+7. VSUS_ON pin 86 (3.3V) 
+8. 3V dan 5V pada SMP induktor hadir. 
+9. SUS_PWRGD pin 67 (3.3V) 
+10. ME_AC_PRESEN pin 123 (3.3V) PCH daya siaga. 
+11. PM_RSMRST pin 22 (3.3V) 
+12. PM_PWRBTN pin 56 (3.3V) beralih pada PCH. 
+13. PM_SUSC pin 21 (3.3V) 
+14. PM_SUSB pin 107 (3.3V) PCH kondisi kerja. 
+15. SUSC_EC pin 96 (3.3V) 
+16. SUSB_EC pin 97 (3.3V) EC triger perangkat bootable memungkinkan siny

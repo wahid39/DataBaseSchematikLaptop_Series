@@ -1,0 +1,15 @@
+
+Install windows di chromebook
+
+1,Buka bagian belakang dan lepaskan Write Protect Screw.
+2,Tekan Esc + Refresh + Power untuk masuk ke Recovery Mode.
+3,Silahkan Ctrl + D dan tekan Enter untuk mengaktifkan Developer Mode.
+4,Tekan Ctrl + D untuk melakukan boot Chrome OS. 
+   Buka tab dan tekan Ctrl + Alt + T. 
+   Ketik “shell” dan tekan Enter.
+   Tempel ini: cd; curl -LO mrchromebook.tech/firmware-util.sh
+   Tekan Enter.
+   Ketik lagi : sudo install -Dt/usr/local/bin -m 755 firmware-util.sh
+   Enter
+5,lalu siapkan FD yang sudah terisi windows
+6,setting di bios untuk mode boot ke FDy.)
