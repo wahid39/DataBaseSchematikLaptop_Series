@@ -1,0 +1,23 @@
+Syarat EC Test Poin
+	1. +3Va_EC
+	2. Ec_RST#
+	3. +3vPll
+	4. +3VAcc
+	5. Lid_Sw# 3,3v
+
+
+Tegangan Test Poin standbay chip
+ #intel
+	1. vcc_RTC 3,3v
+	2. RTC_RST# 3,3v
+	3. SRTC_RST# 3,3v
+	4. Intruder# 3,3v
+	5. Clock 32 (Osiloscope)
+
+  #AMD
+	1. vcc_RTC 1,8v
+	2. RTC_RST# 1,8v
+	3. SRTC_RST# 1,8v
+	4. Intruder# 1,8v
+	5. Clock 32 (via Osiloscope)
+
